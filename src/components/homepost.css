@@ -1,0 +1,58 @@
+
+.homebody{
+    font-size: 1.5rem;
+    margin-left: 12px;
+}
+.homecardbox{
+    max-width: 50rem;
+    max-height: 50rem;
+    
+    margin: 5px auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
+   
+    border: 5px solid black;
+    
+    
+}
+.homepostheading{
+    font-size: 2rem;
+    margin: 10px 10p
+}
+.homecommenticone{
+    font-size: 2em;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 24px;
+    left: 2px;
+
+}
+.homelikeicone{
+    font-size: 2.5em;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 20px;
+}
+.homecardimage{
+    height: 30rem;
+}
+.homelikecount{
+    font-size: 1.5em;
+    font-weight: 500;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+.homeDislikeicone{
+    font-size: 2.5em;
+    /* margin: 0px 10px; */
+    position: relative;
+    bottom: 20px;
+}
+.homemain{
+    margin-top: 7px;
+    background-color: whitesmoke;
+    padding-top: 30px;
+    
+}
+

@@ -1,0 +1,68 @@
+.body{
+    font-size: 1.5rem;
+    margin-left: 12px;
+    /* margin-bottom: 40px; */
+    /* margin-bottom: 50px; */
+    position: relative;
+    bottom: 20px;
+}
+.userpost{
+     max-width: 32rem;
+    max-height: 30rem; 
+    
+     margin: 0 25px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    
+    border: 5px solid black;
+    
+    
+}
+.postheading{
+    font-size: 2rem;
+    margin: 10px 10p
+}
+.commenticone{
+    font-size: 1.8em;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 21px;
+    left: 2px;
+
+}
+.likeicone{
+    font-size: 2em;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 20px;
+}
+.cardimage{
+      width: 20rem;
+    height: 20rem;
+}
+.likecount{
+    font-size: 1.5em;
+    font-weight: 500;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.Dislikeicone{
+    font-size: 2em;
+    /* margin: 0px 10px; */
+    position: relative;
+    bottom: 20px;
+}
+.main{
+    margin-top: 7px;
+    background-color: whitesmoke;
+    padding-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 60px;
+    
+    
+}
+.cardbody{
+    height: 8rem;
+}

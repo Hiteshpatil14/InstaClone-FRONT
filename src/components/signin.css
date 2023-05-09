@@ -1,0 +1,17 @@
+.signinform{
+    max-width: 650px;
+    /* min-height: 650px; */
+    max-width: 650px;
+    margin: 30px auto;
+    border: 1px solid rgb(154, 151, 151);
+    padding: 0px 50px 30px;
+    
+}
+.email,.password{
+    font-size: 2em;
+}
+
+.text{
+    font-size: 4em;
+text-align: center;
+}

@@ -1,0 +1,62 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    /* margin: 0px 20px; */
+    height: 6rem;
+    border-bottom: 2px;
+    
+    /* justify-content: space-between; */
+}
+.header img,h1{
+    display: inline;
+    
+}
+.header h1{
+    font-size:2.3em;
+    margin-left: 30px;
+    color: white;
+    
+    position: relative;
+    bottom: 10px;
+
+}
+
+.screens li{
+    display: flex;
+    list-style: none;
+    font-size: 2em;
+    margin-right: 30px;
+}
+.screens input{
+    margin-right:16rem;
+    padding:20px;
+    height:1em;
+    margin-top:18px;
+    border-radius:20px;
+    font-size:0.8em;
+    width:30rem}
+
+    .screens li button{
+        font-weight: 300;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-bottom: 10px;
+        font-size: 0.8em;
+       margin: 20px;
+       font-weight: 500;
+       background-color: black;
+       color: white;
+       padding: 5px 15px;
+       border-radius: 30px;
+       position: relative;
+       bottom: 5px;
+    }
+
+    .screens li button:hover{
+        background-color: whitesmoke;
+        color: black;
+        cursor: pointer;
+    }
+    .logoutbutton:hover {
+        background-color: black ;
+        color: red 
+    }

@@ -1,0 +1,78 @@
+.userDetail{
+    /* max-width: 700px; */
+display: flex;
+margin: 40px 40px;
+/* padding-top: 40px; */
+/* justify-content: space-evenly; */
+padding-bottom: 50px;
+border-bottom: 2px solid rgb(65, 64, 64);
+}
+.userPic{
+    margin-top: 50px;
+    width: 500px;
+    text-align: center;
+}
+.userPic img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    /* margin: auto; */
+}
+.userAppData h1{
+    /* margin: auto; */
+    margin-top: 50px;
+    position: relative;
+    top: 60px;
+   
+}
+.userAppData li{
+    display: flex;
+    list-style: none;
+    margin: 25px 30px 80px 30px;
+    /* position: relative;
+    top: 100px; */
+    font-size: 1.5em;
+    font-weight: 400;
+    position: relative;
+    right: 60px;
+    
+}
+.userPost{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+   /* max-width: 90%; */
+   margin: 40px 80px;
+    
+}
+
+.userPost .cardbox{
+    height: 30rem;
+    width: 34rem;
+    /* padding: 10px 10px; */
+    /* justify-content: space-around; */
+    margin: 30px 30px;
+   
+}
+.userPost .cardbox .cardimage{
+    /* width: 100%;
+    height: 100%; */
+    min-width: 20rem;
+    min-height: 20rem;
+     
+}
+.userAppData{
+    width:400px
+}
+.useremail{
+    margin-top: 65px;
+    text-decoration: underline;
+    font-style: italic;
+ 
+}
+.userAppData li ul{
+  text-align: center;
+  font-size: 1.4em;
+  margin-right: 20px;
+  
+}
